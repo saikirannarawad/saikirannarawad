@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" alt="Hello Animation" width="200"/>
 </p>
 
-[![Website Badge](https://img.shields.io/badge/Website-saigopalchalla.in-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://saigopalchalla.in) 
-[![Portfolio Badge](https://img.shields.io/badge/Developer%20Site-GitHub%20Pages-orange?style=flat-square&logo=github&logoColor=white)](https://SaiGopal-Challa.github.io/SGC-GitHubPage/)
+[![Website Badge](https://img.shields.io/badge/Website-saikirannarawad.in-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://saikirannarawad.in) 
+[![Portfolio Badge](https://img.shields.io/badge/Developer%20Site-GitHub%20Pages-orange?style=flat-square&logo=github&logoColor=white)](https://saikirannarawad.github.io/SGC-GitHubPage/)
 
 ---
 

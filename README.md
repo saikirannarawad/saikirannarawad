@@ -107,7 +107,7 @@ Hi! I'm Saikiran Narawad, a software developer specializing in **backend systems
 
 ## 🏆 **Achievements**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaiGopal-Challa&theme=dracula&column=7" alt="GitHub Trophies" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=saikirannarawad&theme=dracula&column=7" alt="GitHub Trophies" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);"/>
 </div>
 
 ---

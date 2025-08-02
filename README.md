@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hey, I'm Sai Gopal Challa!  
+# 👋 Hey, I'm Saikiran Narawad!  
 
 <p align="center">
   <img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" alt="Hello Animation" width="200"/>

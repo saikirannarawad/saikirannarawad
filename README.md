@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 Hi! I'm Saikiran Narawad, a software developer specializing in **backend systems**, **API development**, **Frontend development** and **cloud solutions**. I enjoy crafting scalable solutions, exploring distributed systems, and enhancing application performance.
 
 - 🛠 Skilled in `Node.js`, `Express.js` ,`.NET Core`, `SQL Databases`, `MongoDB` , `React` and `AWS`.
-- 🌐 Explore my portfolio: [saigopalchalla.in](https://saigopalchalla.in)  
+- 🌐 Explore my portfolio: [saikirannarawad.in](https://saikirannarawad.in)  
 - 🔭 Currently working on scalable microservices and optimizing database systems.
 - 🌱 Learning about **Graph Databases** and **Machine Learning**
 - 💡 Interests:- Full-Stack development with AWS along with openAI or machinelerning.
